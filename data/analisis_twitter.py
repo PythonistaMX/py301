@@ -110,7 +110,7 @@ def nube(texto):
 def main(archivo="tuits.json", lista="lista_negra.csv"): 
     termino = input("Término de búsqueda: ")
     tuits_previos = carga_tuits(archivo)
-    tw = accede_a_tw("credenciales.txt")
+    tw = accede_a_tw("data/credenciales.txt")
     tuits_recientes = busqueda_tw(tw, termino)
     tuits = mezcla_tuits(tuits_previos, tuits_recientes)
     guarda_tuits(tuits, archivo)
