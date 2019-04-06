@@ -1,3 +1,5 @@
+[![imagenes](imagenes/pythonista.png)](https://pythonista.io)
+
 # py301: Introducción a herramientas de análisis de datos y cómputo científico
 
 ## Temario
