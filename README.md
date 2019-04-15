@@ -11,8 +11,9 @@
 * Conceptos básicos de Numpy
 * Los arreglos de Numpy
 * Operaciones básicas con arreglos de Numpy
-* Atributos y métodos y funciones para arreglos de Numpy
-* Álgebra lineal con Numpy
+* Herramientas para arreglos de Numpy
+* Álgebra líneal con Numpy
+* Análisis de datos con Numpy
 * Introducción a Pandas
 * Introducción a los proyectos Scikit
 * Introducción a Matplotlib
