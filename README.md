@@ -5,17 +5,15 @@
 ## Temario
 
 * Introducción
-* Conceptos básicos de datos
-* Funciones para flujos de datos
-* Caso de uso: Control de asistencia
 * Conceptos básicos de Numpy
-* Los arreglos de Numpy
+* Gestión de arreglos de Numpy
 * Operaciones básicas con arreglos de Numpy
 * Herramientas para arreglos de Numpy
 * Álgebra líneal con Numpy
-* Análisis de datos con Numpy
+* Creación de tipos de datos personalizados.
+* Gestión y análisis de datos con Numpy.
 * Introducción a Pandas
-* Introducción a los proyectos Scikit
+* Introducción a los proyectos Scikits
 * Introducción a Matplotlib
 * Introducción a networkX
 * Introducción a NLTK
